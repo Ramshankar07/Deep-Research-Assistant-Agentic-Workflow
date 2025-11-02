@@ -1,0 +1,33 @@
+# Core dependencies
+streamlit
+numpy
+pandas
+matplotlib
+arxiv
+pymupdf
+openai
+tqdm
+sentence-transformers
+scikit-learn
+python-dotenv
+
+# Database
+neo4j
+chromadb
+langchain-community
+langchain-openai
+langchain-core
+pysqlite3-binary>=0.5.0
+
+# PDF and image processing
+opencv-python-headless
+unstructured
+pillow
+pillow-heif
+unstructured[all-docs]
+
+# Document processing
+PyPDF2
+
+# For paper generation
+crewai
